@@ -13,6 +13,10 @@ public class BirinciGun {
 		System.out.println("10:11 -Ikinci Gun" );
 		System.out.println("10:26 - Ikinci  Gun");
 		System.out.println("10:52 -ikinci gun ikinci commit");
+<<<<<<< HEAD
 		System.out.println("11:05 Local");
+=======
+		System.out.println("11:03 - github.com");
+>>>>>>> refs/remotes/origin/master
 	}
 }
