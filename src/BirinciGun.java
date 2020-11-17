@@ -15,6 +15,10 @@ public class BirinciGun {
 		System.out.println("10:52 -ikinci gun ikinci commit");
 		System.out.println("11:05 Local");
 		System.out.println("11:25 - github.com");
+<<<<<<< HEAD
 		System.out.println("Ben buradan conflict beklemiyorum");
+=======
+		System.out.println("11:28 - bakalım conflict olacak mı");
+>>>>>>> refs/remotes/origin/master
 	}
 }
